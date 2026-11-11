@@ -1,0 +1,15 @@
+{
+  "name": "Quản lý hồ sơ dự án",
+  "short_name": "Hồ sơ DA",
+  "description": "Tra cứu, cập nhật hồ sơ dự án và chụp ảnh hiện trường – dữ liệu chung với bản máy tính qua Google Drive",
+  "lang": "vi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f6",
+  "theme_color": "#0d6b70",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
